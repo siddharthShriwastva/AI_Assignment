@@ -1,2 +1,3 @@
 # AI_Assignment
 Build an AI virtual Assistant
+The Project is all about virtual Assistant which is like any usual Assistant which works for us but, here the machine will work as an assistant. It is just like Jarvis in Iron Man movie. We got this idea from there. This will take command as speech and try to complete the assigned work. Some of the properties of the virtual assistant is auto login, browsing, text to speech, handle internal software and applications and searching on Wikipedia and fetch the summary in two lines. The whole project is based on Python and we have used different types of module as speech-recognition, datetime, selenium and many. 
